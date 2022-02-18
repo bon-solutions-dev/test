@@ -31,6 +31,8 @@
     "sass": "^1.49.7",
     "stylelint": "^14.4.0",
     "stylelint-config-standard-scss": "^3.0.0"
+  },
+  "dependencies": {
+    "rimraf": "^3.0.2"
   }
 }
-
